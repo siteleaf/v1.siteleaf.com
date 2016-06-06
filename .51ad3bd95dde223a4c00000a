@@ -1,5 +1,5 @@
 ---
-time: 1465239831
+time: 1465240800
 inventory:
   "/help/index.html":
     md5: 481de6d0aabf5f4f25929629fff8340f
@@ -7,6 +7,33 @@ inventory:
   "/index.html":
     md5: 481de6d0aabf5f4f25929629fff8340f
     time: 1465238854
+  "/plans/index.html":
+    md5: 760a0748852bfec07c408ebd20720133
+    time: 1465240788
+  "/plans/hobby/index.html":
+    md5: b215ac10aa5afbbefe33f743ec0f4d08
+    time: 1465240788
+  "/plans/team/index.html":
+    md5: 8a1f09eb8a2dae3aa2284018086fbdb8
+    time: 1465240788
+  "/plans/business/index.html":
+    md5: c5d842ab11d448fc779b2fc936b50be1
+    time: 1465240788
+  "/plans/solo/index.html":
+    md5: 42025025635d9989c3eca33cd0c329f7
+    time: 1465240788
+  "/plans/team-old/index.html":
+    md5: 39ea16fd816b0ba548b35ffa60dea248
+    time: 1465240788
+  "/plans/agency/index.html":
+    md5: bd67e6ee43c2cc18a103a20eac555cc9
+    time: 1465240788
+  "/plans/archive/index.html":
+    md5: fad53f755101d5699d8e1299cd9bc58c
+    time: 1465240788
+  "/plans/tags/index.html":
+    md5: 1bff08ef37d6f871dc6b99d563c55243
+    time: 1465240788
   "/blog/index.html":
     md5: c00bc90219071fe1d1fa6018c5042337
     time: 1465239326
@@ -367,6 +394,9 @@ inventory:
   "/themes/tags/index.html":
     md5: 8b47ec7707f8e7099b2ec1f0131658b2
     time: 1465239493
+  "/purpose/index.html":
+    md5: 84750e309706fa3b10fe00382dfeb8b7
+    time: 1465240792
   "/home/manage/index.html":
     md5: 2226db94be2674426ba7b5d812d77fa7
     time: 1465238855
@@ -557,8 +587,8 @@ inventory:
     md5: fe0cc044ce1b9866f0db2fdd748571cc
     time: 1465238897
   "/feed.xml":
-    md5: 4ca602859043bd2dadb4adc0863dd857
-    time: 1465239577
+    md5: 5ab42aa016d804cc09921c6c726ba830
+    time: 1465240795
   "/assets/Siteleaf_Feature_1_Illustration.svg":
     md5: 4ba2408532847a3f9d8749bb41f4ce93
     time: 1465236629
