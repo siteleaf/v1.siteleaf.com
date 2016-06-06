@@ -1,603 +1,204 @@
 ---
-time: 1465236953
+time: 1465238979
 inventory:
-  "/home/index.html":
-    md5: 3ee2b6e9e0abcd29a7ff4f3001d4c2fe
-    time: 1465236573
-  "/index.html":
-    md5: 3ee2b6e9e0abcd29a7ff4f3001d4c2fe
-    time: 1465236573
-  "/plans/index.html":
-    md5: 3d4a55a4a60e188b574bdc7acdf0227a
-    time: 1465236574
-  "/plans/hobby/index.html":
-    md5: 3819d143bf98f4eff16f3b0a2b6f3c26
-    time: 1465236574
-  "/plans/team/index.html":
-    md5: 3c65ab5fa0eb4bcd0527e2bb99f0db0b
-    time: 1465236574
-  "/plans/business/index.html":
-    md5: ee699825e166332a79a0263fa2f69da1
-    time: 1465236575
-  "/plans/solo/index.html":
-    md5: 77f29336c66b930767ec852977ada1f5
-    time: 1465236575
-  "/plans/team-old/index.html":
-    md5: b5dcb087d9d43a847e2a841d268788a5
-    time: 1465236575
-  "/plans/agency/index.html":
-    md5: e57797086e3c4608ce96335d79e36ba0
-    time: 1465236575
-  "/plans/archive/index.html":
-    md5: 49c12f8e3e1a20d69261cb67f4680fb9
-    time: 1465236575
-  "/plans/tags/index.html":
-    md5: f0662359ab496e1f6c88af4c4abcf5f6
-    time: 1465236575
-  "/blog/index.html":
-    md5: c67010f5d8785a48d905e6a3259edf59
-    time: 1465236576
-  "/blog/join-our-team/index.html":
-    md5: 15f9b756f72bc33748fa9116d7c7d6c9
-    time: 1465236576
-  "/blog/v2-beta/index.html":
-    md5: 744512003dcb39b8ba792aa05ef7eef1
-    time: 1465236576
-  "/blog/publishing-via-the-api/index.html":
-    md5: 898db66c6e0acd0dd6964516f61b2117
-    time: 1465236577
-  "/blog/advanced-liquid-group-by/index.html":
-    md5: f59e0347f458546693ccebafd238bcc6
-    time: 1465236577
-  "/blog/advanced-liquid-where/index.html":
-    md5: 8546f9437fad05aeb85ff254e7e45dc1
-    time: 1465236577
-  "/blog/advanced-liquid-sort/index.html":
-    md5: 72cd1d294b3c64d85c8e6db32732b1a7
-    time: 1465236577
-  "/blog/using-aws-s3-and-route-53/index.html":
-    md5: 9fea335b61400b2638fe0c3b0f0c291d
-    time: 1465236577
-  "/blog/improvements-to-page-and-post-management/index.html":
-    md5: 805a841406afef07da882295ec1c377b
-    time: 1465236577
-  "/blog/footnotes-and-highlights/index.html":
-    md5: 0bae7bf12d802ee5350da3467a69391d
-    time: 1465236577
-  "/blog/stickers/index.html":
-    md5: c8fff1862f963da6a9e7f570d8301db3
-    time: 1465236577
-  "/blog/publish-to-sftp/index.html":
-    md5: 5b0816e9c9ebac5e03158df87bb9cf41
-    time: 1465236577
-  "/blog/assets-in-meta-fields/index.html":
-    md5: dbc043c022a506fbd7f6cc9d80fef84d
-    time: 1465236577
-  "/blog/siteleaf-turns-one/index.html":
-    md5: a34d4a0da336056d314233b7cf92551a
-    time: 1465236577
-  "/blog/github-pages/index.html":
-    md5: 920654f0ab4915ea5b78b888b865d8db
-    time: 1465236578
-  "/blog/introducing-user-roles/index.html":
-    md5: 5204c584f43659a86489266e37f712cf
-    time: 1465236578
-  "/blog/built-on-siteleaf-made-by-eno/index.html":
-    md5: b09332f58b7ddff84a533b7f41cf0887
-    time: 1465236578
-  "/blog/new-asset-meta-and-quick-post-edit/index.html":
-    md5: 26916b1bda821b095570fe767381e393
-    time: 1465236578
-  "/blog/moving-to-siteleaf/index.html":
-    md5: 4795b37ed50d2d07e4005c70366f3b71
-    time: 1465236581
-  "/blog/sites-we-love/index.html":
-    md5: a5a197a82ea0743e651b9824d62516f1
-    time: 1465236581
-  "/blog/markdown-metadata/index.html":
-    md5: 9ba6f791aec4b37080a929f139641697
-    time: 1465236581
-  "/blog/layouts-in-siteleaf/index.html":
-    md5: 37ac235909e06c386ae4acf037803c98
-    time: 1465236581
-  "/blog/developer-accounts/index.html":
-    md5: c1ccf3041170e593b3c48f9550f90f32
-    time: 1465236581
-  "/blog/brooklyn-beta/index.html":
-    md5: f83c8048f0ef163768bf31e274582ced
-    time: 1465236581
-  "/blog/porting-a-theme-to-siteleaf/index.html":
-    md5: c81024a95a1faaa10ed3b28619f1cec3
-    time: 1465236581
-  "/blog/hackday/index.html":
-    md5: 1ca8ef801c4f5c06ff2790af46927b98
-    time: 1465236581
-  "/blog/markdown-in-siteleaf/index.html":
-    md5: 6c6d3bf67df860d91ee816acaa74b24e
-    time: 1465236581
-  "/blog/taxonomy-in-siteleaf/index.html":
-    md5: 9175572246d958abcdbe3f8c72a729e6
-    time: 1465236581
-  "/blog/developing-sites/index.html":
-    md5: 3640a434287b4d0bb82dab2e203c903f
-    time: 1465236581
-  "/blog/metadata-in-siteleaf/index.html":
-    md5: 6c94742ef959687534741c7da1ef5e62
-    time: 1465236582
-  "/blog/getting-started/index.html":
-    md5: 50aaf166693a4e22c964edb52e61d882
-    time: 1465236582
-  "/blog/hello-world-im-siteleaf/index.html":
-    md5: dc2f117f730bbd37242df64968632dff
-    time: 1465236582
-  "/blog/video/index.html":
-    md5: 3b475a4bda2bd2364dbd31ad9e9e123f
-    time: 1465236582
-  "/blog/overview/index.html":
-    md5: 81fdc8186dc90cf87f305e527350e855
-    time: 1465236582
-  "/blog/introducing-siteleaf/index.html":
-    md5: 7c83acfde0e8ae01505905be7125f296
-    time: 1465236582
-  "/blog/archive/index.html":
-    md5: c13d997b3ab613e6755f75f9a8574299
-    time: 1465236582
-  "/blog/tags/index.html":
-    md5: 1c828263cd97ee87fa610f6f7a50a25c
-    time: 1465236583
-  "/blog/tags/announcement/index.html":
-    md5: 6845eb9619b9ba7a8e6c8fd3275c2bed
-    time: 1465236583
-  "/blog/tags/tutorial/index.html":
-    md5: a42776a7ca33ad82b5f775efb2c04fdb
-    time: 1465236583
-  "/blog/tags/liquid/index.html":
-    md5: b996c5476fa30d10389f2509d04566d0
-    time: 1465236583
-  "/blog/tags/aws/index.html":
-    md5: 71259462e430a7db535e933839c81594
-    time: 1465236583
-  "/blog/tags/tip/index.html":
-    md5: d119221dc2b12352c23f1416dcc874eb
-    time: 1465236583
-  "/blog/tags/markdown/index.html":
-    md5: fad2eddb7270f4c7c40627d3222a4bec
-    time: 1465236583
-  "/blog/tags/community/index.html":
-    md5: 668b0ac62e1e42f89b2147002a6418c4
-    time: 1465236583
-  "/blog/tags/inspiration/index.html":
-    md5: a11386a7515f9fce973eaccbacd1a2f2
-    time: 1465236584
-  "/blog/tags/event/index.html":
-    md5: 4ca5fd572626aef37086b6093ee488a1
-    time: 1465236584
-  "/blog/tags/video/index.html":
-    md5: 883ba7aa403cd8769539eace12c0fd69
-    time: 1465236584
-  "/blog/docs/index.html":
-    md5: 92118026bf6a2af86896fbfd40b36dcd
-    time: 1465236584
-  "/blog/docs/filters-and-tags/index.html":
-    md5: bdd69f1e3f27f04a54a479d198211335
-    time: 1465236584
-  "/blog/docs/group/index.html":
-    md5: 2ebe3b08281bb6af5c0c77ed33e01727
-    time: 1465236585
-  "/blog/docs/where/index.html":
-    md5: e37ec0cb984fa45707cc9d32fd76e3b1
-    time: 1465236586
-  "/blog/docs/sort/index.html":
-    md5: d33a34c3d8021e0aa75eb75bc918a8c5
-    time: 1465236586
-  "/blog/docs/metadata/index.html":
-    md5: 0fd60d7d5c843e8011366c3c9a1af8c3
-    time: 1465236586
-  "/blog/docs/assets/index.html":
-    md5: fb05f56a2b7ef4547a838b705d8138bc
-    time: 1465236586
-  "/blog/docs/naming-your-files/index.html":
-    md5: d9faf9611487e87e8a75fa3de2f47a1c
-    time: 1465236587
-  "/blog/docs/includes/index.html":
-    md5: fe18f5e656e7187b87bec2bf2f30eb8b
-    time: 1465236587
-  "/blog/docs/getting-started/index.html":
-    md5: 451acad0ce1369c9ecf8a0f1b59edaf6
-    time: 1465236588
-  "/blog/docs/taxonomy/index.html":
-    md5: 1282dd842290d362e169d56ae99ac9e4
-    time: 1465236588
-  "/blog/docs/local-development/index.html":
-    md5: d954e3801156ce20f7a4ede0ed90f442
-    time: 1465236588
-  "/gallery/index.html":
-    md5: 82874818e73bebf17716c3fc6ae423f6
-    time: 1465236592
-  "/gallery/collaborative-fund/index.html":
-    md5: 37d9fcc2cac7a8e0cc106e3b042f1f90
-    time: 1465236592
-  "/gallery/collins/index.html":
-    md5: a26c2197d735f24f21490c5443661a1e
-    time: 1465236592
-  "/gallery/adamfeuerman/index.html":
-    md5: 3d077d0ea875e5d3299cd84a2876f6e4
-    time: 1465236592
-  "/gallery/on-the-grid/index.html":
-    md5: b365399bf4a91092291f883224ecef6f
-    time: 1465236593
-  "/gallery/brian-hoff-design/index.html":
-    md5: 6b3a0ec84377c0fe2822f0ddf28ef6e8
-    time: 1465236593
-  "/gallery/bondfire/index.html":
-    md5: 1ababa0380d2cf0939a2fe75f4d87b6e
-    time: 1465236593
-  "/gallery/other-machine-co/index.html":
-    md5: f5dceb0dcec5809681fa7b97b5159daa
-    time: 1465236593
-  "/gallery/london-se/index.html":
-    md5: b4b1c7fdfe252d8b87d19b1cc66a7077
-    time: 1465236593
-  "/gallery/okreal/index.html":
-    md5: 6d21b071ba51b76d0c3bacb20bab7e3a
-    time: 1465236593
-  "/gallery/fiftythree-press/index.html":
-    md5: 03cc91d412af6ea99215a9515499dd45
-    time: 1465236593
-  "/gallery/nearly-impossible/index.html":
-    md5: 76aba7903c86613eee09c26720ac3005
-    time: 1465236593
-  "/gallery/rationale/index.html":
-    md5: 2d4ed5188ce564eaa619487e9f7161a1
-    time: 1465236593
-  "/gallery/geckoboard/index.html":
-    md5: 3094fa9487dee81ead2812dada6d45ad
-    time: 1465236594
-  "/gallery/openbox/index.html":
-    md5: bfebf7368599e46716df1d5abdc34fac
-    time: 1465236594
-  "/gallery/elliot-jay-stocks/index.html":
-    md5: 8e0eed1f48471650a5b8a38b7d0bbb15
-    time: 1465236594
-  "/gallery/another/index.html":
-    md5: e768fa819d592beefe446169ae1fef3b
-    time: 1465236594
-  "/gallery/hyperakt/index.html":
-    md5: 207a69a4a4f6e547f6efaad52879a5c7
-    time: 1465236594
-  "/gallery/dish/index.html":
-    md5: 1eed1f619fbd356f88b7fa1303ae6374
-    time: 1465236594
-  "/gallery/tobias-frere-jones/index.html":
-    md5: ec03e94e93e7266e5c83c70c5e1bd6ec
-    time: 1465236594
-  "/gallery/object-subject/index.html":
-    md5: c31b4ada61d0bd420f3642bb993782ae
-    time: 1465236594
-  "/gallery/brooklyn-derby/index.html":
-    md5: 3ef49d04ead62c5a14b730b2eacd4dd8
-    time: 1465236595
-  "/gallery/chroma/index.html":
-    md5: 0268e3628afc3a1f0e7d1ab713b1f53c
-    time: 1465236595
-  "/gallery/ull/index.html":
-    md5: 362411b306f00baa80593d7aab114a8b
-    time: 1465236595
-  "/gallery/able-parris/index.html":
-    md5: 520ff9fc2e777d81daa5e9ef17be207d
-    time: 1465236595
-  "/gallery/frank-chimero/index.html":
-    md5: 0052b98b6abcbfd5a4988cb2953c4b13
-    time: 1465236595
-  "/gallery/babyganics/index.html":
-    md5: 5e470fa6d24ff8c557b9013d5db01bee
-    time: 1465236595
-  "/gallery/made-by-eno/index.html":
-    md5: 1778c544b8f5c2cd1a16ab1c09654f42
-    time: 1465236595
-  "/gallery/get-biked/index.html":
-    md5: fa82b22c529b4bafdf872f55eb7befa5
-    time: 1465236595
-  "/gallery/tito/index.html":
-    md5: 222ff5242c8fb294f8f14bac63440ae0
-    time: 1465236595
-  "/gallery/woodshop/index.html":
-    md5: ebf9421d0f44b32bfc928e09346276f7
-    time: 1465236595
-  "/gallery/two-minutes-with-tgd/index.html":
-    md5: 2cc0a9a4514e2ee3e7e3abf3bab98617
-    time: 1465236595
-  "/gallery/stet/index.html":
-    md5: 2e3e9be22660046a3cd4f6b8d45835eb
-    time: 1465236595
-  "/gallery/creative-mornings/index.html":
-    md5: 4dc2c4d147ab3bedb19a752ee4efc8c9
-    time: 1465236595
-  "/gallery/erica-heinz/index.html":
-    md5: 828f430610570d13fd9f5cd45ad09edb
-    time: 1465236596
-  "/gallery/pizza-compass/index.html":
-    md5: d0bf8c3dc42c307b48fb9a532e50e9d2
-    time: 1465236597
-  "/gallery/alonzo-felix/index.html":
-    md5: 922c0c711c51d7e1adf38c7cab125ed0
-    time: 1465236598
-  "/gallery/jessica-harllee/index.html":
-    md5: db55ed199b0acf3c6f8b366ea900abd2
-    time: 1465236598
-  "/gallery/kilmc/index.html":
-    md5: a25d84e8edf7b2224cbc34fa9e113ace
-    time: 1465236598
-  "/gallery/robin-rendle/index.html":
-    md5: da5e47b186b19244c0816e0084132823
-    time: 1465236598
-  "/gallery/rainbows-4-dinosaurs/index.html":
-    md5: d537f66760d27af2807a744e038b7b4f
-    time: 1465236598
-  "/gallery/studio-you-me/index.html":
-    md5: b61fdb91a4f50262c420f405c000625a
-    time: 1465236599
-  "/gallery/studiobooth/index.html":
-    md5: e77c6ed181a700ea8c1c3b504e033f71
-    time: 1465236600
-  "/gallery/oak-studios/index.html":
-    md5: bb5cbd964326cc5b99460a6b16b54610
-    time: 1465236600
-  "/gallery/newswordy/index.html":
-    md5: 24ff731f1273a1650066ac85517cc599
-    time: 1465236600
-  "/gallery/dropmark/index.html":
-    md5: e816b00ab01e8826f4ae0fb6f0515859
-    time: 1465236601
-  "/gallery/symbolset/index.html":
-    md5: 17e0d221ac1ba34f24146a065d576b3d
-    time: 1465236601
-  "/gallery/destroytoday/index.html":
-    md5: 7d0e189fd628c56bba76f7634db1cb62
-    time: 1465236601
-  "/gallery/sawyer-hollenshead/index.html":
-    md5: 5c4242ed71cb01d0b6e8afd0ca1e8453
-    time: 1465236601
-  "/gallery/we-will-be-close/index.html":
-    md5: 0265f7319c2de4900712cb3b3f9a9a71
-    time: 1465236602
-  "/gallery/bar-lawrence/index.html":
-    md5: 73104d38f9f6dd4ab8d8b7d8089ea678
-    time: 1465236602
-  "/gallery/cafe-jonnie/index.html":
-    md5: a288159ea3a9099545722a9567469215
-    time: 1465236602
-  "/gallery/archive/index.html":
-    md5: e496229ed658f515ea7bc4629ea713a7
-    time: 1465236602
-  "/gallery/tags/index.html":
-    md5: f0662359ab496e1f6c88af4c4abcf5f6
-    time: 1465236603
-  "/themes/index.html":
-    md5: c620289ccb3056632d0c79a21ce53c2c
-    time: 1465236604
-  "/themes/shaken-grid/index.html":
-    md5: 1b3ec841969cba28153270c289634456
-    time: 1465236604
-  "/themes/martin/index.html":
-    md5: 5713a053bf5a3806b810bffe4e365ea6
-    time: 1465236604
-  "/themes/otlets-shelf/index.html":
-    md5: 865ed181eba820d8024b89cb0b55335e
-    time: 1465236604
-  "/themes/github/index.html":
-    md5: 373613372cc3e15d3a1c6e49eca09a8f
-    time: 1465236604
-  "/themes/archive/index.html":
-    md5: a8fa53a232e97027bf4142c8763f3838
-    time: 1465236604
-  "/themes/tags/index.html":
-    md5: f0662359ab496e1f6c88af4c4abcf5f6
-    time: 1465236604
-  "/purpose/index.html":
-    md5: a178d492355adc52770b201f023f7eaa
-    time: 1465236605
-  "/privacy/index.html":
-    md5: b74a790503619b96a166adff22fe41c7
-    time: 1465236605
-  "/terms/index.html":
-    md5: bfef7afdd4cfd1e81f9aa844e172a16e
-    time: 1465236605
   "/help/index.html":
-    md5: 631511c78d936dcc427004b42d73bfb4
-    time: 1465236607
+    md5: 481de6d0aabf5f4f25929629fff8340f
+    time: 1465238854
+  "/index.html":
+    md5: 481de6d0aabf5f4f25929629fff8340f
+    time: 1465238854
   "/home/manage/index.html":
-    md5: 9eb57ffe093c64e0f0627b44e7e470d6
-    time: 1465236607
+    md5: 2226db94be2674426ba7b5d812d77fa7
+    time: 1465238855
   "/home/publish/index.html":
-    md5: a6af680fabcc3edf5bcc31cddf8fbb33
-    time: 1465236607
+    md5: 05d1db48ab61001533048fb9100a1ea4
+    time: 1465238855
   "/home/develop/index.html":
-    md5: fd8f23a5faf3cd70e1a0508c6b184df4
-    time: 1465236607
+    md5: c9cc2a669557a696e72770ed725d597c
+    time: 1465238856
   "/home/kind-words/index.html":
-    md5: 978e886891b5802400ac973ae815f78b
-    time: 1465236609
+    md5: d73bce6ee5877b76d12e72befb3f4589
+    time: 1465238856
   "/help/faq/index.html":
-    md5: 23dd46c0858ff66ddf281c00d39ef2e4
-    time: 1465236610
+    md5: fb132de951ab00eb198c310bbe1794bf
+    time: 1465238856
   "/help/themes/index.html":
-    md5: 8f1eec76925435d2d3d4e1d8268acd97
-    time: 1465236611
+    md5: 9fbec4b0a184b0b92f802ba2c6741608
+    time: 1465238857
   "/help/managing-your-site/index.html":
-    md5: 96c46324831e63fcd1789ccc365db0ec
-    time: 1465236611
+    md5: 7f3690bcb7adaf2678e62191a017c3a2
+    time: 1465238857
   "/help/hosting/index.html":
-    md5: bcea2d5bad051186a5647901cf163485
-    time: 1465236611
+    md5: 110d217c7e6373f0b040bf4670de3e4a
+    time: 1465238858
   "/help/v2/index.html":
-    md5: 84d27e406db776822f6881e8e60f7bfa
-    time: 1465236611
+    md5: 87f5ecd8e9d4caf541122c7b79a6acb7
+    time: 1465238858
   "/help/themes/getting-started/index.html":
-    md5: b20bab3f57cc3da99e9ea4be50cb5017
-    time: 1465236612
+    md5: 55711bb39fa23b1ee6c9c8d43ae1e545
+    time: 1465238859
   "/help/themes/filters-and-tags/index.html":
-    md5: 027d379d56d2b4bd65acd36a247fd432
-    time: 1465236614
+    md5: f1a9d64877ab6fba4d4af6c8bb809051
+    time: 1465238859
   "/help/themes/variables/index.html":
-    md5: a91a576a1e077ea78d48228796358041
-    time: 1465236614
+    md5: be0bde51298241a28baf94f3d9f03b85
+    time: 1465238860
   "/help/themes/naming-your-files/index.html":
-    md5: 2aab1483de799e72952b16ef266e1574
-    time: 1465236615
+    md5: 81e7d204b33d93be17db9f9273cdd1c3
+    time: 1465238861
   "/help/themes/tips-and-tricks/index.html":
-    md5: abe593f34163d84b47ff1770052f9510
-    time: 1465236615
+    md5: 7cf40f36fab8ac17b73daaf7a0c1d700
+    time: 1465238866
   "/help/themes/local-development/index.html":
-    md5: cd9983361db38ef0779eed7b511b24c0
-    time: 1465236615
+    md5: 9252c79ac492b5be623086b01f707e11
+    time: 1465238868
   "/help/themes/sample-themes/index.html":
-    md5: e46c18cc40a094d81a7954f2d8e4f62f
-    time: 1465236615
+    md5: d509d914307d2129013bdcf86cd60cc0
+    time: 1465238868
   "/help/themes/additional-resources/index.html":
-    md5: 04aabc95815e3d4a29a5037bb2b3bb91
-    time: 1465236616
+    md5: e87673e02db07e7d2a127e7ffbe23431
+    time: 1465238868
   "/help/themes/filters-and-tags/date-formating/index.html":
-    md5: b19ce17deabe6b4f9d356a664cd196f4
-    time: 1465236616
+    md5: 42d246f29c61946f25152d35f8783026
+    time: 1465238870
   "/help/themes/variables/site/index.html":
-    md5: ec13dd8a74f8bb8eb277c88b340156a9
-    time: 1465236616
+    md5: bd82f8cc67b81fd1fb621e90d4ba48a3
+    time: 1465238871
   "/help/themes/variables/content/index.html":
-    md5: 136372c093ff334bdb25accb54c8c913
-    time: 1465236616
+    md5: 8bc287f254dedfbda0dec21c7dcf771d
+    time: 1465238872
   "/help/themes/variables/posts/index.html":
-    md5: d5fe0134946eb4650217b1b3dadbd6b4
-    time: 1465236616
+    md5: 864241615cc3f81e3457f43eccc2f0a0
+    time: 1465238874
   "/help/themes/variables/subpages/index.html":
-    md5: cf4e31acd1db837c53086dcb296f76cc
-    time: 1465236617
+    md5: b215c21612663b7499038fb214764bb1
+    time: 1465238874
   "/help/themes/variables/assets/index.html":
-    md5: e4474f112093cb71cfe1376a651e19ae
-    time: 1465236617
+    md5: 902942f2ba1b9388e41cd47805865063
+    time: 1465238876
   "/help/themes/variables/metadata/index.html":
-    md5: 279bff51e305284019d9626fed386949
-    time: 1465236617
+    md5: 10be581967b2f1d3fff5b928347a0381
+    time: 1465238877
   "/help/themes/variables/taxonomy-and-tags/index.html":
-    md5: 32f4b1eea69e0018988e7553c9586c88
-    time: 1465236617
+    md5: 33fe50fecb3b4ba7db09b2ed66138c69
+    time: 1465238877
   "/help/themes/naming-your-files/includes/index.html":
-    md5: 708a7c2062341bec61fc54f0b46eb95c
-    time: 1465236618
+    md5: e90c22469d01576d1e58fa4fb4340471
+    time: 1465238878
   "/help/themes/naming-your-files/ignoring-files/index.html":
-    md5: db33c9256deed78feb098e759bbaf6c8
-    time: 1465236618
+    md5: e393c026a0d08d30b3940c09713c1a90
+    time: 1465238879
   "/help/themes/naming-your-files/standalone-templates/index.html":
-    md5: 5787f636880100ff6e85d40479829a62
-    time: 1465236618
+    md5: 6626ae7dc4197d8e99f35d1ea3cc3023
+    time: 1465238880
   "/help/managing-your-site/user-roles/index.html":
-    md5: 4244f06ca72b74ebcbc7207c51b1d1bd
-    time: 1465236620
+    md5: 3a13f05fc976270bec574d14bf17fb5c
+    time: 1465238880
   "/help/hosting/ftp/index.html":
-    md5: 68ae15e73b9d924cb76b91044daec522
-    time: 1465236621
+    md5: a8e7b246436d3fffaad91e9d85dc9eb4
+    time: 1465238880
   "/help/hosting/amazon-s3/index.html":
-    md5: 94918803c7f07cc35dff7f36df3e4054
-    time: 1465236621
+    md5: 02ab2db7844df0e1daf9fc7eb253d616
+    time: 1465238880
   "/help/hosting/rackspace-cloud-files/index.html":
-    md5: 1a915f6290912c294865020183de2ac7
-    time: 1465236622
+    md5: 985d26786555df81b8bd2bd01be1dc5b
+    time: 1465238881
   "/help/hosting/github/index.html":
-    md5: 3896347c123eb13640967c28d8ebaba4
-    time: 1465236622
+    md5: a8566b2ad68bb8e3a513965cb3599ebc
+    time: 1465238881
   "/help/hosting/siteleaf/index.html":
-    md5: 0d5d8849a1aee79c2998710f840a5fc9
-    time: 1465236623
+    md5: b96f985af135eee70370f7ee3a94a64b
+    time: 1465238881
   "/help/hosting/siteleaf/custom-domains/index.html":
-    md5: 495d445ce5ce1842773678a573c18203
-    time: 1465236624
+    md5: 3035bda9c67ac46b878c928baea18e1e
+    time: 1465238881
   "/help/hosting/siteleaf/godaddy/index.html":
-    md5: 045ad4fc38f2b8fca3592d5ad5187eab
-    time: 1465236624
+    md5: cb10a3c6e22dd95c911beaad96094dc1
+    time: 1465238882
   "/help/themes/tips-and-tricks/nested-menu/index.html":
-    md5: e4b87776900dd4dba9bb55a494c4d529
-    time: 1465236625
+    md5: a9871c97042c73bb47579319b23252e6
+    time: 1465238882
   "/help/themes/tips-and-tricks/sort-page-post-assets-by-filename/index.html":
-    md5: b80a8d2c95b0e777b3e77275bfa77a52
-    time: 1465236625
+    md5: f0c151a3b8b6932466c750dcff3086e7
+    time: 1465238882
   "/help/themes/tips-and-tricks/sort-and-loop-through-tags/index.html":
-    md5: 71a626c779e1b17440e39510595099fb
-    time: 1465236625
+    md5: 5c1cfa9da3fa474e2fb8174f3c431e38
+    time: 1465238883
   "/help/themes/tips-and-tricks/strip-linebreaks-from-html/index.html":
-    md5: 6dbdd6a77f2c2a434db09cce9d40a194
-    time: 1465236625
+    md5: 65e062660af752291f9ce872ea99e814
+    time: 1465238883
   "/help/themes/tips-and-tricks/group-and-exclude-posts/index.html":
-    md5: f36748f3a692ff13402f0e7cd4edf911
-    time: 1465236625
+    md5: cfb3d577e089530f14990ed0e4fda974
+    time: 1465238883
   "/help/themes/tips-and-tricks/related-posts/index.html":
-    md5: ab234f18364a8aec68d9166ac89a110d
-    time: 1465236626
+    md5: 19f1ad63d378398ba8b575a0d68f7bdb
+    time: 1465238883
   "/help/themes/tips-and-tricks/redirects/index.html":
-    md5: 383885b84da5a0099aac9aa8c51aaf9e
-    time: 1465236626
+    md5: c5ea15cd6b8cb6b0905dde713da19b4a
+    time: 1465238883
   "/help/themes/tips-and-tricks/content-from-other-pages/index.html":
-    md5: 8e96d45e2c4f78e1484849a34dd67949
-    time: 1465236626
+    md5: cad0308b3bcd4bc20ae4729986e9c621
+    time: 1465238883
   "/home/manage/content-types/index.html":
-    md5: 49988cf032ce1772ed808c28030135d0
-    time: 1465236626
+    md5: 67c5ac33d823ef11410473901c1af963
+    time: 1465238885
   "/home/manage/collaborate/index.html":
-    md5: 1671b6272c86206293d08f604c214345
-    time: 1465236626
+    md5: 16e51c5990bc166745d58c38365270f6
+    time: 1465238886
   "/home/manage/markdown/index.html":
-    md5: 3cb5e2fc7fc24b97bafd55d42163bbb2
-    time: 1465236626
+    md5: 354b065eb116e3daf2ee33f0ada812a4
+    time: 1465238886
   "/home/manage/content-types/pages/index.html":
-    md5: 39bafc7beb51dc8e4f500ccde5a0687f
-    time: 1465236626
+    md5: 90e5f4a285db78d5789343717befecb7
+    time: 1465238887
   "/home/manage/content-types/posts/index.html":
-    md5: 13d52492e09f35ad96355920f32c3b95
-    time: 1465236626
+    md5: 3b4cf06d348e3d1f99c156531bfba52f
+    time: 1465238887
   "/home/manage/content-types/metadata/index.html":
-    md5: be91bd09a1e32b30cb9da1bd7463d7c3
-    time: 1465236626
+    md5: eac4c57080bb96d2f15a2e7ceaffada8
+    time: 1465238888
   "/home/manage/content-types/taxonomies/index.html":
-    md5: 0164fc254ca96560cd969ff1855c3198
-    time: 1465236626
+    md5: 892eb9543d053a46b633747b29c55a05
+    time: 1465238889
   "/home/publish/static-files/index.html":
-    md5: 9cf4207ee95dc5a4ca1f624c6f7054b5
-    time: 1465236626
+    md5: 152194a66b612c22e2950ebf58d4ecda
+    time: 1465238889
   "/home/publish/siteleaf-hosting/index.html":
-    md5: c52a5cecb944f435bf46d0a17a58ae61
-    time: 1465236626
+    md5: 4e4106632cca573e8d45b89a5061893e
+    time: 1465238889
   "/home/publish/custom-domains/index.html":
-    md5: 566b193c61615dacef1b70b9f9b0f963
-    time: 1465236627
+    md5: f6b920c7dacd8e49028b1d6641686d5e
+    time: 1465238891
   "/home/publish/api/index.html":
-    md5: bd316f38d29dc9851103e55efb91ac4b
-    time: 1465236627
+    md5: 2aaa05a9f63bd3421893d6d355e4809d
+    time: 1465238891
   "/home/develop/html-and-liquid/index.html":
-    md5: a3a2404e5d1496c9eef78e09f4f50779
-    time: 1465236627
+    md5: 3eb100e66d99156f1fc46fc064011e6f
+    time: 1465238892
   "/home/develop/preview-before-publishing/index.html":
-    md5: 55a5a513fc7e387eb0bbd620f60b833f
-    time: 1465236627
+    md5: 5a727ad9a7e9b4379261c432ffa3d713
+    time: 1465238892
   "/home/develop/develop-locally/index.html":
-    md5: 147e707431748769de595853c80fc7ba
-    time: 1465236627
+    md5: 7b2090fdefe252c285bc68685fadd001
+    time: 1465238893
   "/help/v2/gem/index.html":
-    md5: 29f3570cf88c6fbbe11c1c456ad26914
-    time: 1465236627
+    md5: ea56e42b1d3f8913c05aa0010c549882
+    time: 1465238894
   "/help/v2/export-v1/index.html":
-    md5: f035cdec109c5ed19b6b36afd11d9384
-    time: 1465236627
+    md5: 4c9ed0b93fc6146cdd886d773e55d2cb
+    time: 1465238896
   "/help/v2/improved-metadata-in-v2/index.html":
-    md5: d500fd28d46b98f559104635ebe713fc
-    time: 1465236628
+    md5: d82c3f15631a6a4e6ec318b92bf80d3d
+    time: 1465238897
   "/CNAME":
     md5: fca6297bee32199b036461a9aa42b7d1
     time: 1465236628
   "/sitemap.xml":
-    md5: 0df9049d2f24c052cdd8e3919d6b3eba
-    time: 1465236628
+    md5: fe0cc044ce1b9866f0db2fdd748571cc
+    time: 1465238897
   "/feed.xml":
-    md5: 2956847d6c1d0e9a70304e3dccdbb2f7
-    time: 1465236629
+    md5: 1693c8afb35a311e9045a3cf9c621176
+    time: 1465238897
   "/assets/Siteleaf_Feature_1_Illustration.svg":
     md5: 4ba2408532847a3f9d8749bb41f4ce93
     time: 1465236629
@@ -767,8 +368,8 @@ inventory:
     md5: 128bff809e61a7ee5ab958a1b2c5735b
     time: 1465236651
   "/404.html":
-    md5: 8d2a1295b2614c065dc21a0bb659c0a3
-    time: 1465236653
+    md5: 1335122f6b98e3ce45a79304bd1dafda
+    time: 1465238897
   "/images/google-auth-logo.png":
     md5: 670dfedce65973a0789a249b1057b7da
     time: 1465236655
@@ -832,6 +433,12 @@ inventory:
   "/styles/sass/style.scss":
     md5: 8530a31417f3751fbc40d3721dbf0e4a
     time: 1465236670
+  "/default.html.bak":
+    md5: 5494b4e376d8a5be54542bd1ae154cce
+    time: 1465238898
+  "/index.html.bak":
+    md5: 4a9f86db4a5d1eff4001c69dc1fc0114
+    time: 1465238898
   "/assets/screenshot-local-dev.png":
     md5: 3f3848dd70ce984f66a7df6570017ff3
     time: 1465236671
