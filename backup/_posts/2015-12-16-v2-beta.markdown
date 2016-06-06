@@ -1,0 +1,14 @@
+---
+title: Siteleaf v2 is coming
+date: 2015-12-16 05:00:00 Z
+hero: "/uploads/github-sync.png"
+assets:
+- path: "/uploads/github-sync.png"
+  name: github-sync
+---
+
+We’re currently hard at work on version 2 of Siteleaf, which brings a bunch of new features and improvements that we’re eager to show off. We’ve taken everything you love about v1 and made it more open, more customizable, and easier to develop.
+
+For a tour of the new features, check out [v2.siteleaf.com](http://v2.siteleaf.com).
+
+While we wrap things up, we’re also inviting a small batch of good people to try things out and provide feedback. If you are interesting, [sign up to join the beta](https://siteleaf.typeform.com/to/EoFRli).

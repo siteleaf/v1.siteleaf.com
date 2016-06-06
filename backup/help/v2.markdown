@@ -1,0 +1,7 @@
+---
+title: Siteleaf v2 Beta
+date: 2015-10-20 15:29:00 Z
+published: false
+---
+
+Siteleaf V2 docs have been moved to [learn.siteleaf.com](http://learn.siteleaf.com)

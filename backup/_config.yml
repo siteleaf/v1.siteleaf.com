@@ -1,0 +1,40 @@
+---
+title: Siteleaf | Content management system simplified.
+url: http://www.siteleaf.com
+timezone: Eastern Time (US & Canada)
+permalink: pretty
+url2png_key: P4F36A90763AEE
+url2png_secret: SB5686D828A5BD
+description: Content management simplified. Edit in the cloud, publish anywhere. Supports
+  static file output, any host, markdown, and multiple collaborators.
+swiftype: 4XiyM4LrqupJHqsvMvpg
+copyright: Siteleaf™ is made by <a href="http://oak.is">Oak</a>. Follow <a href="http://twitter.com/siteleaf">@siteleaf</a>
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  features:
+    output: true
+  plans:
+    output: true
+  gallery:
+    output: true
+  themes:
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+markdown: redcarpet
+redcarpet:
+  extensions:
+  - autolink
+  - fenced_code_blocks
+  - lax_spacing
+  - strikethrough
+  - superscript
+  - tables
+  - footnotes
+  - highlight
